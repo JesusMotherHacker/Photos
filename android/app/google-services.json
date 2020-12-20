@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248618640483",
+    "project_id": "photos-dev-103d7",
+    "storage_bucket": "photos-dev-103d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248618640483:android:7852add6c3423a897f8456",
+        "android_client_info": {
+          "package_name": "com.photostest.photos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248618640483-ab0mkfr86vjbpumsd1s674pmv66abg39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbjZDW6h4DrdlRyZK9OXtxjyPatjzPEKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248618640483-ab0mkfr86vjbpumsd1s674pmv66abg39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
